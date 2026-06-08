@@ -1,0 +1,35 @@
+
+
+
+pickford = Player("Jordan Pickford", 32, shoot=12, speed=65, stamina=60, passing=78, tackle=15, position="GK", ovl=83)
+henderson_d = Player("Dean Henderson", 29, shoot=10, speed=62, stamina=58, passing=66, tackle=12, position="GK", ovl=80)
+trafford = Player("James Trafford", 23, shoot=10, speed=60, stamina=55, passing=70, tackle=10, position="GK", ovl=77)
+
+# Defenders (DF)
+stones = Player("John Stones", 32, shoot=60, speed=73, stamina=82, passing=85, tackle=87, position="DF", ovl=85)
+guehi = Player("Marc Guéhi", 25, shoot=50, speed=77, stamina=85, passing=74, tackle=86, position="DF", ovl=83)
+konsa = Player("Ezri Konsa", 28, shoot=45, speed=79, stamina=84, passing=70, tackle=85, position="DF", ovl=81)
+james = Player("Reece James", 26, shoot=72, speed=81, stamina=80, passing=82, tackle=84, position="DF", ovl=84)
+burn = Player("Dan Burn", 34, shoot=52, speed=61, stamina=78, passing=68, tackle=81, position="DF", ovl=78)
+livramento = Player("Tino Livramento", 23, shoot=62, speed=85, stamina=83, passing=75, tackle=79, position="DF", ovl=80)
+oreilly = Player("Nico O'Reilly", 21, shoot=68, speed=78, stamina=80, passing=79, tackle=75, position="DF", ovl=77)
+quansah = Player("Jarell Quansah", 23, shoot=48, speed=74, stamina=81, passing=72, tackle=82, position="DF", ovl=79)
+spence = Player("Djed Spence", 25, shoot=58, speed=87, stamina=82, passing=71, tackle=76, position="DF", ovl=77)
+
+# Midfielders (MF)
+bellingham = Player("Jude Bellingham", 22, shoot=86, speed=81, stamina=90, passing=88, tackle=78, position="MF", ovl=90)
+rice = Player("Declan Rice", 27, shoot=74, speed=78, stamina=94, passing=82, tackle=86, position="MF", ovl=87)
+mainoo = Player("Kobbie Mainoo", 21, shoot=72, speed=76, stamina=84, passing=83, tackle=75, position="MF", ovl=81)
+rogers = Player("Morgan Rogers", 23, shoot=79, speed=83, stamina=81, passing=80, tackle=50, position="MF", ovl=79)
+anderson = Player("Elliot Anderson", 23, shoot=75, speed=77, stamina=84, passing=81, tackle=68, position="MF", ovl=80)
+eze = Player("Eberechi Eze", 27, shoot=82, speed=83, stamina=79, passing=85, tackle=42, position="MF", ovl=83)
+henderson_j = Player("Jordan Henderson", 35, shoot=68, speed=55, stamina=75, passing=79, tackle=74, position="MF", ovl=76)
+
+# Forwards (FW)
+kane = Player("Harry Kane", 32, shoot=93, speed=72, stamina=83, passing=84, tackle=40, position="FW", ovl=90)
+saka = Player("Bukayo Saka", 24, shoot=84, speed=89, stamina=87, passing=83, tackle=55, position="FW", ovl=87)
+rashford = Player("Marcus Rashford", 28, shoot=85, speed=91, stamina=80, passing=78, tackle=41, position="FW", ovl=83)
+gordon = Player("Anthony Gordon", 25, shoot=80, speed=90, stamina=86, passing=79, tackle=45, position="FW", ovl=82)
+madueke = Player("Noni Madueke", 24, shoot=78, speed=87, stamina=80, passing=76, tackle=38, position="FW", ovl=80)
+toney = Player("Ivan Toney", 30, shoot=84, speed=78, stamina=81, passing=74, tackle=42, position="FW", ovl=81)
+watkins = Player("Ollie Watkins", 30, shoot=85, speed=86, stamina=84, passing=73, tackle=40, position="FW", ovl=83)
