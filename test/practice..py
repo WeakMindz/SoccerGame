@@ -220,6 +220,7 @@ if team_selection == "senegal":
     print("==================================================\n")
 formation = input("Type for formation: ")
 selecec_postion = 'FW'
+
 if formation == "4 4 2":
     for selecec_postion in player.position:
             print(player.name)
