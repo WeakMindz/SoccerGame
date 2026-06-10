@@ -95,3 +95,6 @@ for player in england_squad:
     print(f"{player.name:<20} | {player.age:<3} | {player.position:<3} | {player.ovl:^14}")
 
 print("==================================================\n")
+#Use pygame to handle graphic user interfrace 
+#Makes files for the team data 
+#MAke the game customizable.
